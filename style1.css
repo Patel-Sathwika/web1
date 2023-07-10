@@ -1,0 +1,81 @@
+* {
+  margin: 30;
+  padding: 20;
+  box-sizing: border-box;
+}
+
+body {
+   background-image: url("https://wallpapercrafter.com/sizes/2560x1440/20293-stars-galaxy-milky-way-starry-sky-night-sky-4k.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+  font-family: Arial, sans-serif;
+  color: white;
+  font-size: 25px;
+
+  background-color: #f4f4f4;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.profile-image {
+  margin-left: auto;
+  
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  margin-bottom: 5px;
+}
+
+.project a {
+  color: #333;
+  background-color: #ddd;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
